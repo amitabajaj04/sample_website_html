@@ -7,3 +7,43 @@
   text-decoration: none;
   color: blue;
 }
+
+.image-link {
+  text-decoration: none;
+}
+
+.moby-page-header {
+  text-align: center;
+  margin: 0 0 40px;
+}
+
+.moby-whale {
+  display: block;
+  margin: 0 auto;
+}
+
+.moby-section {
+  width: 700px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+
+.moby-book-cover {
+  float: left;
+  margin: 0 40px 0 0;
+  }
+
+  .quote-styling {
+    font-style: italic;
+    font-size: 20px;
+    padding: 2px 20px;
+    background: #ccc;
+  }
+
+  .quote-intro {
+    font-style: normal;
+    font-size: 24px;
+    font-weight: bold;
+    color: #ff0000;
+  }
